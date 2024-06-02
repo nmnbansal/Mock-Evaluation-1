@@ -1,0 +1,14 @@
+/* App.css */
+@import url('https://fonts.googleapis.com/css2?family=Shojumaru&family=ZCOOL+KuaiLe&display=swap');
+
+h1.saviour {
+  font-family: 'ZCOOL KuaiLe', sans-serif;
+}
+
+button.connectwallet{
+    font-family: 'Poppins', sans-serif;
+}
+
+.herofont{
+    font-family: 'Shojumaru', sans-serif;
+}
