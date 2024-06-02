@@ -73,7 +73,7 @@ const IDOEvent = () => {
           <p className="text-[28px] font-herofont text-[#ED0137] text-center mt-[40px] ml-[72px]">
             Become an affiliate & Earn <br /> 7% as Commission!
           </p>
-          <div className="border-2 border-[#C4110C] h-[48px] w-[467px] rounded-3xl ml-[111px] mt-[40px] flex items-center bg-[#040815] relative">
+          <div className="border-2 border-[#C4110C] h-[48px] w-[467px] rounded-3xl ml-[111px] mt-[40px] flex items-center relative">
             <input type="text" className="h-[44px] flex-grow bg-transparent rounded-3xl pl-4 pr-[150px] text-white placeholder-gray-400 font-saviour" placeholder="Generate a unique referral link"/>
             <button className="absolute right-0.5 w-[108px] h-[39px] rounded-3xl bg-[#ED0137] text-white text-[15px] font-saviour">Generate</button>
             <img src={copy} className="absolute right-[-35px] h-[34px] w-[34px] cursor-pointer" />
@@ -100,13 +100,13 @@ const IDOEvent = () => {
               <p className="text-[24px] font-saviour text-[#F0F0F0] text-center mt-[20px]">
                 Raised - $34,56,56,764/$40,00,00,000
               </p>
-              <div className="border-2 border-[#C4110C] h-[48px] w-[467px] rounded-3xl ml-[111px] mt-[30px] flex items-center bg-[#040815] relative">
+              <div className="border-2 border-[#C4110C] h-[48px] w-[467px] rounded-3xl ml-[111px] mt-[30px] flex items-center relative">
             <input type="text" className="h-[44px] flex-grow bg-transparent rounded-3xl pl-4 pr-[150px] text-white placeholder-gray-400 font-saviour" placeholder="Enter the amount (BNB)"/>
               </div>
-              <div className="border-2 border-[#C4110C] h-[48px] w-[467px] rounded-3xl ml-[111px] mt-[30px] flex items-center bg-[#040815] relative">
+              <div className="border-2 border-[#C4110C] h-[48px] w-[467px] rounded-3xl ml-[111px] mt-[30px] flex items-center relative">
             <input type="text" className="h-[44px] flex-grow bg-transparent rounded-3xl pl-4 pr-[150px] text-white placeholder-gray-400 font-saviour" placeholder="Minimum Quantity to Buy"/>
               </div>
-              <div className="border-2 border-[#C4110C] h-[48px] w-[467px] rounded-3xl ml-[111px] mt-[30px] flex items-center bg-[#040815] relative">
+              <div className="border-2 border-[#C4110C] h-[48px] w-[467px] rounded-3xl ml-[111px] mt-[30px] flex items-center relative">
             <input type="text" className="h-[44px] flex-grow bg-transparent rounded-3xl pl-4 pr-[150px] text-white placeholder-gray-400 font-saviour" placeholder="Maximum Quantity of Tokens"/>
               </div>
               <div className=" flex justify-center items-center gap-10 mt-[-20px]">
